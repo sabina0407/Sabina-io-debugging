@@ -81,7 +81,7 @@ function disableGameInputs() {
   guessInput.disabled = true;
 }
 function enableGameInputs() {
-  submitButton.diabled = false;
+  submitButton.disabled = false;
   guessInput.disabled = false;
 }
 
